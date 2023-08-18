@@ -1,0 +1,32 @@
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    
+}
+.dice{
+    align-items: center;
+    display: inline-block;
+}
+body{
+    background-color: #393E46;
+}
+h1{
+    margin: 30px;
+    font-size: 4rem;
+    color: #4ECCA3;
+}
+p{
+    font-size: 2rem;
+}
+.img1 {
+    width: 70%;
+}
+.img2{
+    width: 70%;
+}
+footer {
+    margin-top: 5%;
+    text-align: center;
+    color: #EEEEEE;
+}
